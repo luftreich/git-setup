@@ -1,15 +1,15 @@
 # 目录
 * [git 安装](#git-安装)
-    * [Linux 安装](#Linux-安装)
-    * [Windows 安装注意事项](#Windows-安装注意事项)
-* [git GUI 程序](#git-GUI-程序)
-    * [Windows 下 sourcetree 配置](#Windows-下-sourcetree-配置)
-* [配置 SSH 密钥](#配置-SSH-密钥)
-    * [Linux 或 Mac 系统下配置密钥](#Linux-或-Mac-系统下配置密钥)
-    * [Windows 下配置密钥](#Windows-下配置密钥)
-* [添加 SSH 公钥到服务器](#添加-SSH-公钥到服务器)
+    * [Linux 安装](#linux-安装)
+    * [Windows 安装注意事项](#windows-安装注意事项)
+* [git GUI 程序](#git-gui-程序)
+    * [Windows 下 sourcetree 配置](#windows-下-sourcetree-配置)
+* [配置 SSH 密钥](#配置-ssh-密钥)
+    * [Linux 或 Mac 系统下配置密钥](#linux-或-mac-系统下配置密钥)
+    * [Windows 下配置密钥](#windows-下配置密钥)
+* [添加 SSH 公钥到服务器](#添加-ssh-公钥到服务器)
 * [sourcetree 设置](#sourcetree-设置)
-    * [Windows 下需要的特殊设置](#Windows-下需要的特殊设置)
+    * [Windows 下需要的特殊设置](#windows-下需要的特殊设置)
 
 # git 安装
 Linux直接可以用包管理器下载安装, Mac/Windows 可以到[官网](https://git-scm.com/download/)下载后安装
