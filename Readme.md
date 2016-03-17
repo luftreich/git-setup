@@ -1,3 +1,9 @@
+# 目录
+* [git 安装](#git-安装)
+    * [Windows 安装注意事项](#Windows-安装注意事项)
+* [git GUI 程序](#git-GUI-程序
+    * [Windows 下 sourcetree 配置](#Windows-下-sourcetree-配置)
+* [配置 SSH 密钥](#配置-SSH-密钥)
 # git 安装
 Linux直接可以用包管理器下载安装, Mac/Windows 可以到[官网](https://git-scm.com/download/)下载后安装
 
@@ -26,7 +32,7 @@ Linux直接可以用包管理器下载安装, Mac/Windows 可以到[官网](http
 
 ![](3.sourcetree安装选项.png)
 
-#### 配置 SSH 密钥
+# 配置 SSH 密钥
 ![](4.配置ssh-key.png)
 
 打开程序后, 首先需要设置 ssh 密钥(ssh-key), 这个是 git 程序上传文件是使用的"授权文件",   
